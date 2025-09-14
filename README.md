@@ -10,3 +10,5 @@ My name is Tunde, an SRE Engineer working with AWS and Terraform. Passionate abo
 
 ## Featured Project
 📈 [3-Tier Web Application Demo] [Complete_Pipeline_Demo.pptx](https://github.com/user-attachments/files/22320078/Complete_Pipeline_Demo.pptx) - Interactive presentation showcasing my AWS infrastructure automation with Terraform
+
+[Complete_Pipeline_Demo.pdf](https://github.com/user-attachments/files/22320162/Complete_Pipeline_Demo.pdf)
