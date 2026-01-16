@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Tunde, an SRE Engineer working with AWS and Terraform. Passionate about DevOps and infrastructure automation.
+My name is Ola, an SRE Engineer working with AWS and Terraform. Passionate about DevOps and infrastructure automation.
 
 🔭 I'm currently working on building scalable 3-tier web applications using Terraform and AWS infrastructure automation
 
